@@ -1,7 +1,8 @@
 # Async Handler
 
-![npm version](https://img.shields.io/npm/v/your-package-name)
-![license](https://img.shields.io/npm/l/your-package-name)
+![npm version](https://img.shields.io/npm/v/node-async-error-handler)
+![npm downloads](https://img.shields.io/npm/dm/node-async-error-handler)
+![license](https://img.shields.io/npm/l/node-async-error-handler)
 
 A lightweight utility for handling async errors in Express.js.
 
