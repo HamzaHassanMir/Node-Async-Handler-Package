@@ -18,5 +18,13 @@
   
   "peerDependencies": {
   "express": ">=4"
-}
+},
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/HamzaHassanMir/Node-Async-Handler-Package.git"
+},
+"bugs": {
+  "url": "https://github.com/HamzaHassanMir/Node-Async-Handler-Package/issues"
+},
+"homepage": "https://github.com/HamzaHassanMir/Node-Async-Handler-Package#readme"
 }
