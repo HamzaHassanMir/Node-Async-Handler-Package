@@ -1,0 +1,22 @@
+{
+  "name": "node-async-error-handler",
+  "version": "1.0.0",
+  "description": "Minimal async error handler middleware for Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "async",
+    "error-handler"
+  ],
+  "author": "Hamza Hassan Mir",
+  "license": "MIT",
+  "type": "commonjs",
+  
+  "peerDependencies": {
+  "express": ">=4"
+}
+}
